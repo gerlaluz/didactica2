@@ -1,0 +1,6 @@
+Subí aquí estas imágenes con estos nombres exactos:
+- fachada-pet.jpg   -> foto de la fachada del Polo Educativo Tecnológico San José
+- interior-pet.jpg  -> foto interior del centro
+- foto-german.jpg   -> foto personal para la sección Sobre mí
+
+Si preferís PNG, cambiá también la extensión en los HTML correspondientes.
